@@ -5,90 +5,14 @@
       "hash": "2990d651e415df57bacc77d4139b3b0a"
     },
     {
-      "name": "slideshow/img10.raw",
-      "hash": "cd6cd94d28830395c96279c40da68c37"
-    },
-    {
-      "name": "slideshow/img11.raw",
-      "hash": "46b2f8a8d201c2af0ecc220774eec7cc"
-    },
-    {
-      "name": "slideshow/img12.raw",
-      "hash": "252fd2525504c6afe0335a5e1636f298"
-    },
-    {
       "name": "slideshow/img2.raw",
       "hash": "e5ad1e0f187d7a09cef6be2c384be2c0"
     },
     {
       "name": "slideshow/img3.raw",
       "hash": "b79ddb2446785ce76c4c5e216ae1da1e"
-    },
-    {
-      "name": "slideshow/img4.raw",
-      "hash": "0fb8d0b314f5c6a50d8372a2d429c928"
-    },
-    {
-      "name": "slideshow/img5.raw",
-      "hash": "21770bde0ba7ac4c5140337e2edc7262"
-    },
-    {
-      "name": "slideshow/img6.raw",
-      "hash": "7d4051e20f471b847bfa811d324e1cf0"
-    },
-    {
-      "name": "slideshow/img7.raw",
-      "hash": "aaf5ee5898078e6cc171a47ee1ba59f4"
-    },
-    {
-      "name": "slideshow/img8.raw",
-      "hash": "75196bbb27925c39d94ec5fe4467f2d8"
-    },
-    {
-      "name": "slideshow/img9.raw",
-      "hash": "bd64078d5733c43c3c1be35e7405ae40"
     }
   ],
   "animations": [
-    {
-      "name": "anim/anim1.raw",
-      "frames": 11,
-      "hash": "d17a2b7c9394a003ae229f6436e15705"
-    },
-    {
-      "name": "anim/anim2.raw",
-      "frames": 31,
-      "hash": "3abe9b77a0a7d6b3745b6b401a263776"
-    },
-    {
-      "name": "anim/anim3.raw",
-      "frames": 40,
-      "hash": "cb4782b16ab889f6d325016adaf680a2"
-    },
-    {
-      "name": "anim/anim4.raw",
-      "frames": 31,
-      "hash": "5e6fd63059a6e7c6a801cf8354d11d79"
-    },
-    {
-      "name": "anim/anim5.raw",
-      "frames": 43,
-      "hash": "ca48612e38133dd3d89042dac8fae4e2"
-    },
-    {
-      "name": "anim/anim6.raw",
-      "frames": 117,
-      "hash": "c1430667bebd4c3ad936900b4f9c8e0f"
-    },
-    {
-      "name": "anim/anim7.raw",
-      "frames": 35,
-      "hash": "78c99c0691e2754f13bfa76728a441ea"
-    },
-    {
-      "name": "anim/anim8.raw",
-      "frames": 108,
-      "hash": "466895dfbbc08642ac32bdf9da0fed51"
-    }
   ]
 }
