@@ -14,5 +14,11 @@
     }
   ],
   "animations": [
+    {
+      "name": "anim/anim1.raw",
+      "frames": 11,
+      "hash": "d17a2b7c9394a003ae229f6436e15705"
+    }
   ]
 }
+
