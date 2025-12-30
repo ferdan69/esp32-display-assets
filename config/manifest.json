@@ -88,6 +88,11 @@
       "hash": "d17a2b7c9394a003ae229f6436e15705"
     },
     {
+      "name": "anim/anim10.raw",
+      "frames": 91,
+      "hash": "8daafec60cb7208262c0c640b6fe2eb7"
+    },
+    {
       "name": "anim/anim2.raw",
       "frames": 31,
       "hash": "3abe9b77a0a7d6b3745b6b401a263776"
@@ -121,6 +126,11 @@
       "name": "anim/anim8.raw",
       "frames": 108,
       "hash": "466895dfbbc08642ac32bdf9da0fed51"
+    },
+    {
+      "name": "anim/anim9 .raw",
+      "frames": 64,
+      "hash": "3aeee7e1b21bd56e6902cd92e1686b26"
     }
   ]
 }
